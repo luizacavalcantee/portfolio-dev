@@ -42,27 +42,33 @@ h1 {
   font: var(--title-lg);
   color: var(--gray-600);
 }
+
 h2{
   font: var(--subtitle);
   font-size: 18px;
   color: var(--gray-500);
 }
+
 .tx-sm{
   font: var(--text-sm);
   color: var(--gray-400);
 }
+
 .tx-md{
   font: var(--text-md);
   color: var(--gray-400);
 }
+
 .tx-md-clear{
   font: var(--text-md);
   color: var(--gray-500);
 }
+
 .tt-md{
   font: var(--title-md);
   color: var(--gray-600);
 }
+
 .tt-sm{
   font: var(--title-sm);
   color: var(--gray-600);
